@@ -1,1 +1,1 @@
-Learning software developmen course at ALX
+Learning software development course at ALX
