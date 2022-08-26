@@ -1,1 +1,1 @@
-My readme
+Learning software developmen course at ALX
